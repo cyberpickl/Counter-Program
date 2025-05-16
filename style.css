@@ -1,0 +1,23 @@
+#countLabel{
+    text-align: center;
+    display: block;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10em;
+}
+
+
+#buttonContainer{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+    align-items: center;
+    color: black
+}
+
+button{
+    font-size: 1em;
+    background-color: rgb(195, 141, 239);
+}
+
+
+
